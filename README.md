@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
+My name is Velmurugan
+==============================================================================================================================================
+
+Mobile Developer
+----------------
+
+* 🌍  I'm based in Namakkal
+* ✉️  You can contact me at [velmurugansubramaniam2@duck.com](mailto:velmurugansubramaniam2@duck.com)
+* 🧠  I'm learning Machine Learning
+* 😄 Pronouns: He
 
 <!--
 **velmurugansubramaniam2/velmurugansubramaniam2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +22,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
