@@ -11,7 +11,7 @@ Mobile Developer
 * 🧠  I'm learning Machine Learning
 * 😄 Pronouns: He
 
-<a target="_blank" href="https://www.linkedin.com/in/svelmuruganrvs"><img src="./linkedin.png" style="background-color: #0077b5; width: 200px; height: 150px; border: 2px solid white;"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/svelmuruganrvs"><img src="./linkedin.png" style="background-color: #0077b5; width: 100px; height: 25px; border: 2px solid white;"/></a>
 
 <!--
 **velmurugansubramaniam2/velmurugansubramaniam2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
