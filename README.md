@@ -7,7 +7,7 @@ Mobile Developer
 ----------------
 
 * 🌍  I'm based in Namakkal
-* ✉️  You can contact me at [velmurugansubramaniam2@duck.com](mailto:velmurugansubramaniam2@duck.com)
+* ✉️  You can contact me at [velmurugansubramaniam2@duck.com](mailto:velmurugan.subramaniam2@gmail.com)
 * 🧠  I'm learning Machine Learning
 * 😄 Pronouns: He
 
